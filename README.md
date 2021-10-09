@@ -1,6 +1,6 @@
 # Appointy-API ✨
 
-This is an API mimicing a basic version of Instagram's backend. It is an HTTP json API capable of operations such as:
+This is an API mimicking a basic version of Instagram's backend. It is an HTTP json API capable of operations such as:
 
 ## Operations
 ### Creating a User 🤵
