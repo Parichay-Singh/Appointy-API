@@ -1,7 +1,7 @@
 package middleware
 
 import (
-	"Appointy-API/encrypt"
+	"Appointy-API/encryption"
 	"Appointy-API/model"
 	"context"
 	"encoding/json"
