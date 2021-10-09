@@ -1,6 +1,6 @@
 package main
 import (
-	"Appointy-API/handler"
+	"Appointy-API/middleware"
 	"fmt"
 	"log"
 	"net/http"
